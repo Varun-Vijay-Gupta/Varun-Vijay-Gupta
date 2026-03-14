@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! My name is Varun Gupta, and I am now enrolled in P P Savani University in Surat to pursue a bachelor's degree in computer science engineering. My primary language for programming and coding is Java, and my secondary language is Python. I adore coding. I have a number of Python and Java projects and advanced projects using AI and have finished my DSA in Java. Right now, I'm enrolled in a digital marketing course. In addition, I'm studying stock marketing and data analysis in succession since I want to learn about every aspect of the business. Programming and marketing expertise, in my opinion, make a wonderful mix, and I would love to be that person.
+Computer Science Engineering student at P P Savani University with strong foundation in Data Structures and Algorithms using Java. Proficient in object-oriented programming, problem-solving, and backend development. Experienced in building full-stack web applications using JavaScript, Node.js, and MongoDB. Seeking opportunities to apply technical skills in software development roles.
 
 
 ## 🌐 Socials:
